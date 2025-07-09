@@ -10,6 +10,7 @@ Data cleaning and transformation
 Visual storytelling with graphs (bar charts, pie charts, etc.)
 
 Structured documentation within Excel (sheet-by-sheet logic)
+
 💡 Why Excel?
 While Python and SQL are powerful, Excel remains one of the most widely used tools in business environments. These projects showcase my ability to:
 
